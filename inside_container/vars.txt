@@ -1,0 +1,5 @@
+username: "Raghav Gupta"
+container_name: "web"
+container_image: "raghav1674/ansible-node:latest"
+port_to_expose: 8080
+path_to_index_file: "/root/index.html"
